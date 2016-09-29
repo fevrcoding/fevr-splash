@@ -1,0 +1,21 @@
+{
+  "name": "wok",
+  "version": "3.2.0",
+  "authors": [
+    "Marco Solazzi <marco.solazzi@gmail.com>",
+    "Matteo Guidotto <j8.matteo@gmail.com>",
+    "Umberto Quintarelli <umberto.quintarelli@intesys.it>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sass-mq": "3.2.9",
+    "normalize-css": "4.1.1"
+  }
+}
